@@ -1,0 +1,5 @@
+# Önce veritabanından kaydı sil:
+repo-remove botan.db.tar.gz botan-welcome
+
+# Sonra fiziksel dosyayı sil:
+rm botan-welcome-1.1-1-x86_64.pkg.tar.zst
